@@ -19,13 +19,13 @@ library(mypackage.11.20)
 ```
 
 Demo `square`
+
 ```{r}
 square(1:3)
 ```
 
 Include a plot:
+
 ```{r,echo = FAlSE}
 plot(1:10,square(1:10))
 ```
-
-
