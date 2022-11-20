@@ -1,7 +1,7 @@
 Package: mypackage.11.20
 Title: What the Package Does (One Line, Title Case)
 Version: 0.0.0.9000
-Authors: Wenjing Li
+Author: Wenjing Li
 Maintainer: Wenjing Li <wjingli@umich.edu>
 Description: What the package does (one paragraph).
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
