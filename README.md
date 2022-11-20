@@ -1,6 +1,3 @@
-
-<!-- README.md is generated from README.Rmd. Please edit that file -->
-
 # mypackage.11.20
 
 <!-- badges: start -->
