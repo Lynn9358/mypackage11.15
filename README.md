@@ -1,6 +1,11 @@
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
 # mypackage.11.20
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/Lynn9358/mypackage11.15/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Lynn9358/mypackage11.15/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of mypackage.11.20 is to …
